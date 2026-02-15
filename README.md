@@ -34,11 +34,8 @@ R 언어와 Bioconductor 패키지를 활용하여 RNA-seq 데이터(Count Matri
 * **GO (Gene Ontology) Analysis**: `clusterProfiler`를 사용하여 과발현된 유전자군(Up-regulated genes)이 관여하는 생물학적 프로세스(Biological Process)를 규명했습니다.
 * **Interpretation**: Bubble Plot을 통해 유의한 GO Term과 Gene Ratio를 시각화하여 통계적 결과의 생물학적 의미를 도출했습니다.
 
-<br>
-
 ## 💡 Key Experience
 - **Bioinformatics Pipeline 구축**: Raw Count 데이터부터 기능 분석까지 이어지는 RNA-seq 분석의 전체 흐름을 코드로 구현했습니다.
 - **Data-Driven Insight**: 단순히 수치를 산출하는 것을 넘어, PCA와 Heatmap 등 다양한 시각화 기법을 통해 데이터의 잠재적 구조를 파악하는 능력을 길렀습니다.
 
----
 **Blog**: [밈뮴 블로그 링크]()
