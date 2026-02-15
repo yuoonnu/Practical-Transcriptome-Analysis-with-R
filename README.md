@@ -36,6 +36,7 @@ R 언어와 Bioconductor 패키지를 활용하여 RNA-seq 데이터(Count Matri
 
 ## 📸 주요 결과물
 <img width="1500" height="1200" alt="Fig1 Boxplot-1" src="https://github.com/user-attachments/assets/0cfa7114-8c1d-467f-a061-fd46f4e73c30" />
+<img width="1500" height="1200" alt="Fig2 Boxplot-2 " src="https://github.com/user-attachments/assets/2e623160-b475-4686-b086-012cc31544fe" />
 <img width="1800" height="1200" alt="Fig3 PCAplot" src="https://github.com/user-attachments/assets/cad04122-d80c-4427-8913-6a2d6b207319" />
 <img width="1200" height="1200" alt="Fig4 dendrogram" src="https://github.com/user-attachments/assets/593199a5-a74b-425e-90ea-a498baf3120f" />
 <img width="1500" height="1500" alt="Fig6 DEG-celltype" src="https://github.com/user-attachments/assets/0fa7bd95-47e0-4477-9b8a-df0eb0275c8a" />
