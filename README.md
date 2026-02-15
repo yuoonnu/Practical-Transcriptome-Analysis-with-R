@@ -47,4 +47,4 @@ R 언어와 Bioconductor 패키지를 활용하여 RNA-seq 데이터(Count Matri
 - **Bioinformatics Pipeline 구축**: Raw Count 데이터부터 기능 분석까지 이어지는 RNA-seq 분석의 전체 흐름을 코드로 구현했습니다.
 - **Data-Driven Insight**: 단순히 수치를 산출하는 것을 넘어, PCA와 Heatmap 등 다양한 시각화 기법을 통해 데이터의 잠재적 구조를 파악하는 능력을 길렀습니다.
 
-**Blog**: [밈뮴 블로그 링크]()
+**Blog**: [밈뮴 블로그 링크](https://blog.naver.com/minng705/224184982916)
