@@ -34,7 +34,15 @@ R 언어와 Bioconductor 패키지를 활용하여 RNA-seq 데이터(Count Matri
 * **GO (Gene Ontology) Analysis**: `clusterProfiler`를 사용하여 과발현된 유전자군(Up-regulated genes)이 관여하는 생물학적 프로세스(Biological Process)를 규명했습니다.
 * **Interpretation**: Bubble Plot을 통해 유의한 GO Term과 Gene Ratio를 시각화하여 통계적 결과의 생물학적 의미를 도출했습니다.
 
+## 📸 주요 결과물
+<img width="1500" height="1200" alt="Fig1 Boxplot-1" src="https://github.com/user-attachments/assets/0cfa7114-8c1d-467f-a061-fd46f4e73c30" />
+<img width="1800" height="1200" alt="Fig3 PCAplot" src="https://github.com/user-attachments/assets/cad04122-d80c-4427-8913-6a2d6b207319" />
+<img width="1200" height="1200" alt="Fig4 dendrogram" src="https://github.com/user-attachments/assets/593199a5-a74b-425e-90ea-a498baf3120f" />
+<img width="1500" height="1500" alt="Fig6 DEG-celltype" src="https://github.com/user-attachments/assets/0fa7bd95-47e0-4477-9b8a-df0eb0275c8a" />
+<img width="1500" height="1200" alt="Fig8 CD4-GOenrich" src="https://github.com/user-attachments/assets/561d10aa-f9a0-4fa0-ab65-a4bab5523519" />
+
 ## 💡 Key Experience
+
 - **Bioinformatics Pipeline 구축**: Raw Count 데이터부터 기능 분석까지 이어지는 RNA-seq 분석의 전체 흐름을 코드로 구현했습니다.
 - **Data-Driven Insight**: 단순히 수치를 산출하는 것을 넘어, PCA와 Heatmap 등 다양한 시각화 기법을 통해 데이터의 잠재적 구조를 파악하는 능력을 길렀습니다.
 
